@@ -1,0 +1,60 @@
+.wrapper .head-btn {
+  margin-left: 300px;
+  margin-top: 8px;
+  width: 500px;
+  border-radius: 10px;
+  border: blue solid 1px;
+  height: 80px;
+  color: black;
+  background-color: #b1cec7;
+  font-size: 20px;
+  cursor: pointer;
+}
+.wrapper .head-btn:focus,
+.text-inform input:focus,
+.delete-btm:focus {
+  outline: none;
+}
+.wrapper .head-btn:hover,
+.delete-btm:hover {
+  background-color: blue;
+}
+
+.table {
+  margin: 60px;
+}
+
+.manu-enter {
+  width: 270px;
+  height: 50px;
+  background-color: #b1cec7;
+}
+
+.text-inform input {
+  padding: 0 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 5px;
+  width: 280px;
+  height: 50px;
+  border: 0;
+  border-radius: 8px;
+  color: black;
+  background-color: #b1cec7;
+}
+
+.delete-btm {
+  width: 100px;
+  margin-left: 5px;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: blue solid 1px;
+  color: black;
+  background-color: #b1cec7;
+  font-size: 15px;
+}
+
+.check {
+  margin: 5px;
+}

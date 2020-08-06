@@ -1,0 +1,14 @@
+.item {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.item a {
+  text-decoration: none;
+  margin: 10px;
+  color: black;
+}
+
+.item a:hover {
+  color: rgb(196, 193, 24);
+}
