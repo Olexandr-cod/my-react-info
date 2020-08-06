@@ -2,7 +2,7 @@
   "name": "my-react-info",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://olexandr-cod.github.io/react-app-my/",
+  "homepage": "https://olexandr-cod.github.io/my-react-info/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
